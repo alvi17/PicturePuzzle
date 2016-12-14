@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\PuzzleGame-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8829e29086c82f4d1c912b4bfc8f85b4cc8e277c">
+        <dex dex="E:\AndroidStudioProject\PuzzleGame-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ac5b2eecc9158041795cc98ea6cb7a701da29f56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudioProject\PuzzleGame-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="65e8f84077223320bcb92a8e7cea1e332457162f">
+        <dex dex="E:\AndroidStudioProject\PuzzleGame-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8cb9857310cd2c100af59cd7007c17595dfc420\classes.dex" />
+    </item>
+
+</items>

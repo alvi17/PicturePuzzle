@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProject\\PuzzleGame-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\tileclick.mp3",
+        "source": "E:\\AndroidStudioProject\\PuzzleGame-master\\app\\src\\main\\res\\raw\\tileclick.mp3"
+    },
+    {
+        "merged": "E:\\AndroidStudioProject\\PuzzleGame-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cheer.mp3",
+        "source": "E:\\AndroidStudioProject\\PuzzleGame-master\\app\\src\\main\\res\\raw\\cheer.mp3"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed Dec 14 17:53:22 ALMT 2016
+base.0=E\:\\AndroidStudioProject\\PuzzleGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac5b2eecc9158041795cc98ea6cb7a701da29f56
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidStudioProject\\PuzzleGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8cb9857310cd2c100af59cd7007c17595dfc420\\classes.dex
+base.1=E\:\\AndroidStudioProject\\PuzzleGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a8cb9857310cd2c100af59cd7007c17595dfc420
+file.0=E\:\\AndroidStudioProject\\PuzzleGame-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ac5b2eecc9158041795cc98ea6cb7a701da29f56\\classes.dex
